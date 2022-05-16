@@ -1,4 +1,5 @@
 {
-    "defaultCommandTimeout": 10000,
-    "baseUrl":"https://www.frontendmentor.io"
+  "defaultCommandTimeout": 10000,
+  "baseUrl": "https://www.amazon.com/",
+  "projectId": "336mf4"
 }
